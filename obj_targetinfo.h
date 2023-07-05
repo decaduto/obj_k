@@ -1,0 +1,2 @@
+#define TARGET_IS_32_BIT
+#define TARGET_VERSION
